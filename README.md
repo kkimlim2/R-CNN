@@ -14,7 +14,7 @@
 ### 결론
 
 ![image](https://user-images.githubusercontent.com/79436275/125290617-79355700-e35b-11eb-99a3-db2dc8f8d5e7.png)  
-~~ 그렇게 성과가 좋아보이진 않다 ~~
+~~그렇게 성과가 좋아보이진 않다 ~~
 
 ### TODO
 
