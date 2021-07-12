@@ -13,7 +13,7 @@
 
 ### 결론
 
-![image](https://user-images.githubusercontent.com/79436275/125290617-79355700-e35b-11eb-99a3-db2dc8f8d5e7.png)
+![image](https://user-images.githubusercontent.com/79436275/125290617-79355700-e35b-11eb-99a3-db2dc8f8d5e7.png){: width="200" height="200"}
 
 
 ### TODO
